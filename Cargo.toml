@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1", features = [] }
+backblaze_b2_async_plain = { git="https://github.com/Tomok/rust_backblaze_b2_api_async_plain.git", rev="v0.0.1", features=["sha1"] }
