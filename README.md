@@ -1,4 +1,6 @@
 # b2_api_async
+[![Rust](https://github.com/Tomok/b2_api_async/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/Tomok/b2_api_async/actions/workflows/rust.yml)
+
 An object oriented interface for [backblazes b2 api](https://www.backblaze.com/b2/docs/).
 
 
